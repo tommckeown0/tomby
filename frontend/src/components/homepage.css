@@ -1,0 +1,30 @@
+.home-page {
+    padding: 20px;
+    text-align: center;
+}
+
+.featured-content {
+    margin-top: 40px;
+}
+
+.movies-list {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+}
+
+.movie {
+    width: 30%;
+    padding: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin: 10px;
+}
+
+.movie h3 {
+    color: #333;
+}
+
+.movie p {
+    font-size: 14px;
+    color: #666;
+}
